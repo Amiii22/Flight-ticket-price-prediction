@@ -118,11 +118,17 @@ pip install -r requirements.txt
 - The following libraries are required:
 
 Python >= 3.7
+
 Pandas >= 1.0
+
 NumPy >= 1.18
+
 Scikit-learn >= 0.22
+
 Matplotlib >= 3.1
+
 Seaborn >= 0.10
+
 XGBoost >= 1.0
 
 ---
