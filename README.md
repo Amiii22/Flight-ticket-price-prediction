@@ -13,7 +13,7 @@ This project aims to develop a machine learning model for predicting flight tick
 6. [Model Evaluation](#model-evaluation)
 7. [Installation](#installation)
 8. [Dependencies](#dependencies)
-9. [Conclusion](@conclusion)
+9. [Conclusion](#conclusion)
 
 ---
 
